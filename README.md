@@ -1,0 +1,2 @@
+# SFML_TUTORIAL_PROJECT
+simple_sfml_project
